@@ -1,2 +1,2 @@
 # Pytorch-factor-vae
-factor vae
+pytorch, factor vae
